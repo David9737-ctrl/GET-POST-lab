@@ -1,0 +1,35 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://m.media-amazon.com/images/I/81QuEGw8VPL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "2",
+      "title": "To Kill a Mocking Bird",
+      "author": "Harper Lee",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg"
+    },
+
+    {
+      "id": "3",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://m.media-amazon.com/images/I/8125BDk3l9L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "4",
+      "title": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/The_Grapes_of_Wrath_%281940_poster%29.jpg"
+    },
+    {
+      "id": "5",
+      "title": "The Sun Also Rises",
+      "author": "Ernest Hemingway",
+      "image": "https://m.media-amazon.com/images/I/71O7XjXaMhL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ]
+}
